@@ -1,4 +1,4 @@
-- ============================================================
+-  ============================================================
 -- Lesson 03 — Indexes: Setup
 -- Creates the patient_visits table and populates 100,000 rows
 -- Run this once before the other scripts

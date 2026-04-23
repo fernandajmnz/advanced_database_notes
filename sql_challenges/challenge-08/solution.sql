@@ -1,4 +1,4 @@
--- ============================================================
+ -- ============================================================
 -- Exercise 1 — Find the slow query
 -- Run this query. Look at the execution plan.
 -- Is Oracle using an index? Should it? 
