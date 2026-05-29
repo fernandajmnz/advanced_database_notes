@@ -1,16 +1,20 @@
-# Session – YYYY-MM-DD
+# Session – 2026-05-14
 
 ## Topics covered
-- 
+- ORM: Object Relationship Mapping 
+- DB Migration
 
 ## What I understood
-- 
+- That the ORM are polyglot to translate to SQL
+- Mapping
+- How to use SQL alchemy
+- ORM to add new columns to a model to make the migration
 
 ## What is still confusing
-- 
+- A little bit about the db migration
 
 ## Questions
-- 
+- Not this time 
 
 ## Related concepts
 - [Concept name](../concepts/concept-name.md)
